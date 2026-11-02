@@ -2,7 +2,7 @@
 ### Computer Science ePortfolio | Southern New Hampshire University
 
 ## About Me
-# I am a senior in the Computer Science program at Southern NewHampshire University. 
+I am a senior in the Computer Science program at Southern NewHampshire University. 
 My career goal is to become a data analyst.
 My interests include Python, databases, and using data to support
 decision-making.
